@@ -1,0 +1,7 @@
+# Ignore temporary and backup files
+*.tmp
+*.bak
+*.autosave
+*.log
+__pycache__/
+.vscode/
